@@ -1,4 +1,4 @@
-module github.com/hashicorp/go-metrics
+module github.com/graysonchao/go-metrics
 
 go 1.21
 

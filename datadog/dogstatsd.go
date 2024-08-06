@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/DataDog/datadog-go/statsd"
-	"github.com/hashicorp/go-metrics"
+	"github.com/graysonchao/go-metrics"
 )
 
 // DogStatsdSink provides a MetricSink that can be used

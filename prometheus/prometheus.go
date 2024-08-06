@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hashicorp/go-metrics"
+	"github.com/graysonchao/go-metrics"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/push"
 )

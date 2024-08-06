@@ -18,7 +18,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	dto "github.com/prometheus/client_model/go"
 
-	"github.com/hashicorp/go-metrics"
+	"github.com/graysonchao/go-metrics"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/expfmt"
 )
